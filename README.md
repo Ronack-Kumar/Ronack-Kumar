@@ -49,9 +49,9 @@ A request-routing overview of the multi-agent platform I built at **8 Queens Sof
       <a href="https://offer-safe.vercel.app/">Try the app ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ronack-Kumar/finance-backend">Finance API &#8599;&#65038;</a></h3>
-      <p>JWT authentication, <strong>role-based permissions</strong>, financial records, and analytics for a finance dashboard.</p>
-      <sub>Python / FastAPI / SQLAlchemy</sub>
+      <h3><a href="https://github.com/Ronack-Kumar/finance-workspace">Finance Workspace &#8599;&#65038;</a></h3>
+      <p>Private workspaces, <strong>role-based team access</strong>, exact INR records, and continuous chart insights. Isolated demos and <strong>12 automated test scenarios</strong>.</p>
+      <sub>TypeScript / Express / Prisma / SQLite</sub>
     </td>
   </tr>
 </table>
