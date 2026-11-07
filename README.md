@@ -5,7 +5,7 @@
   <img src="assets/header-light.svg" alt="Ronack Kumar. Backend and AI engineer. Python backends and LangGraph agents." width="100%">
 </picture>
 
-Backend and AI developer in **Chennai**. **MCA at SRM Institute of Science and Technology**, graduating **2027**, with a **9.08/10 CGPA**. I build **Python APIs, LangGraph agents, and full-stack applications**.
+Backend and AI developer in **Chennai**. **MCA at SRM Institute of Science and Technology**, graduating **2027**, with a **9.12/10 CGPA**. I build **Python APIs, LangGraph agents, and full-stack applications**.
 
 ## How GRID07 works
 
