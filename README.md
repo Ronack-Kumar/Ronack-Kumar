@@ -7,7 +7,7 @@
 
 Backend and AI developer in **Chennai**. **MCA at SRM Institute of Science and Technology**, graduating **2027**, with a **9.12/10 CGPA**. I build **Python APIs, LangGraph agents, and full-stack applications**.
 
-## How GRID07 works
+## How ExpertsFor works
 
 A request-routing overview of the multi-agent platform I built at **8 Queens Software**.
 
@@ -15,14 +15,14 @@ A request-routing overview of the multi-agent platform I built at **8 Queens Sof
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/workflow-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/workflow-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/workflow-dark.svg">
-  <img src="assets/workflow-light.svg" alt="GRID07 routing: a question, conversation context, and model catalog inform persona and model selection, LLM execution, and a saved execution trace." width="100%">
+  <img src="assets/workflow-light.svg" alt="ExpertsFor routing: a question, conversation context, and model catalog inform persona and model selection, LLM execution, and a saved execution trace." width="100%">
 </picture>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/metrics-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/metrics-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
-  <img src="assets/metrics-light.svg" alt="GRID07: 84% held-out routing accuracy in my benchmark, 6 LLM provider integrations, and 84 backend tests. OfferSafe: 19 weighted risk signals." width="100%">
+  <img src="assets/metrics-light.svg" alt="ExpertsFor: 84% held-out routing accuracy in my benchmark, 6 LLM provider integrations, and 96 backend tests. OfferSafe: 19 weighted risk signals." width="100%">
 </picture>
 
 ## Selected projects
@@ -30,15 +30,16 @@ A request-routing overview of the multi-agent platform I built at **8 Queens Sof
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ronack-Kumar/grid07">GRID07 &#8599;&#65038;</a></h3>
-      <p>Expert routing across <strong>6 LLM integrations</strong>. LangGraph workflows, encrypted API keys, and <strong>84 backend tests</strong>.</p>
-      <sub>Python / FastAPI / LangGraph</sub>
+      <h3><a href="https://github.com/Ronack-Kumar/expertsfor">ExpertsFor &#8599;&#65038;</a></h3>
+      <p>Expert routing across <strong>6 LLM integrations</strong>. LangGraph workflows, encrypted API keys, and <strong>96 backend tests</strong>.</p>
+      <sub>Python / FastAPI / LangGraph</sub><br>
+      <a href="https://expertsfor.me/">Try the app ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ronack-Kumar/interviewai">InterviewAI &#8599;&#65038;</a></h3>
+      <h3><a href="https://github.com/Ronack-Kumar/mockprep">MockPrep &#8599;&#65038;</a></h3>
       <p>Text, voice, and webcam practice with <strong>four-dimension AI feedback</strong>, saved sessions, and peer rooms.</p>
       <sub>Next.js / Groq / Supabase</sub><br>
-      <a href="https://interviewai-swart.vercel.app/">Try the app ↗</a>
+      <a href="https://www.mockprep.app/">Try the app ↗</a>
     </td>
   </tr>
   <tr>
@@ -65,7 +66,7 @@ A request-routing overview of the multi-agent platform I built at **8 Queens Sof
   <img src="assets/stack-light.svg" alt="Python, FastAPI, LangGraph, TypeScript, Next.js, PostgreSQL, Docker, GitHub Actions" width="720">
 </picture>
 
-**Internships:** 8 Queens Software (GRID07), B2World (DriveLearn India), and IT Developer (MERN Result Management System).
+**Internships:** 8 Queens Software (ExpertsFor, formerly GRID07), B2World (DriveLearn India), and IT Developer (MERN Result Management System).
 
 ---
 
