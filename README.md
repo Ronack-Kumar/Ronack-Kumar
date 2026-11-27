@@ -5,7 +5,7 @@
   <img src="assets/system-light.svg" alt="System diagram of Ronack Kumar: you send POST /hire to the ronack-kumar service, which lists his role, location, studies and status, calls his four projects (expertsfor, mockprep, offersafe, finance-workspace) and answers 200 OK." width="100%">
 </picture>
 
-I'm Ronack. I build Python backends and LLM agent systems, mostly the parts that decide which model answers a question, check what comes in, and keep a record of what happened. I'm doing an MCA at SRM Institute of Science and Technology in Chennai (2025 to 2027, CGPA 9.12), and I'm looking for backend and AI internships and full-time roles from 2027.
+I'm Ronack, a full-stack developer who works mostly on AI products. I build the whole app, from the Next.js frontend to the Python or Node backend, and I spend most of my time on the LLM parts: deciding which model answers a question, checking what comes in, and keeping a record of what happened. I'm doing an MCA at SRM Institute of Science and Technology in Chennai (2025 to 2027, CGPA 9.12), and I'm looking for full-stack and AI internships and full-time roles from 2027.
 
 ## Projects
 
@@ -72,7 +72,7 @@ Built a result management system on MongoDB, Express, React and Node.js, coverin
 
 ## Stack
 
-On the backend I use Python, FastAPI, LangGraph, SQLAlchemy and PostgreSQL. Web apps are TypeScript with Next.js, React and Node.js, and Docker and GitHub Actions handle builds and CI.
+Frontends are TypeScript with Next.js and React. Backends are Python (FastAPI, LangGraph, SQLAlchemy) or Node.js, usually on PostgreSQL. Docker and GitHub Actions handle builds and CI.
 
 ## Contact
 
